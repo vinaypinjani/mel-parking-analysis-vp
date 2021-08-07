@@ -8,11 +8,13 @@ The project uses data provided by City of Melbourne that contains parking sensor
 The idea of the project is to perform exploratory analysis on a sample from the data and answer questions that may generate some information about the parking sensor triggers in  the City of Melbourne. The answers for the questions were used to create a chatbot with Azure services.
 
 # Questions
-1. Busiest street in rush hours?
-2. Average parking time for major streets?
-3. Areas where most violations occur?
-4. Streets with highest average parking time?
-5. Which day of the week is busiest?
+Questions
+1. Which was the most parked street?
+2. Most parked street in rush hours?
+3. Average parking time for major streets?
+4. Areas where most violations occur?
+5. Streets with highest average parking time?
+6. Which day of the week is busiest?
 
 # Approach
 Python is used along with Pandas library to create a dataframe, any non requred columns are removed and necessary conversions are made to the data.
