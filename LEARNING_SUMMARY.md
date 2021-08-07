@@ -1,1 +1,4 @@
-
+# Learning Journey
+To plan and understand the project, I finished the Microsoft Learn Modules and even prepared for AI-900 certification to re-inforce my learning. After I was satisfied with my AI knowldge, I decided to work on a data analysis project integrated with QnA bot.
+I started by finding a real world dataset that may generate any significant insights. The data from City of Melbourne provided sensor data that did not require much cleaning. A sample from the data was chosen due to large file size. After an overview of the data the possible learning outcomes were decided. Using Pandas in Python the data was explored and the quesions were answered. Using the findings from the data, a knowledge base was created with Azure QnA Maker. After the knowledge base was created, a web based bot was created that with communicate those questions with the user.
+I have learned a great deal just by working on this project, there is so much more that can be done with this data, and real world applicatioms can be implemented to help user gain insights easily via bots.
